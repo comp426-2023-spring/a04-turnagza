@@ -1,0 +1,22 @@
+{
+  "name": "a04-turnagza",
+  "version": "1.0.0",
+  "description": "rock paper scis extended",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-turnagza.git"
+  },
+  "author": "Zach T",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-turnagza/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-turnagza#readme"
+}
